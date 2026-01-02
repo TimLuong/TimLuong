@@ -15,8 +15,6 @@ I am a **Team Manager** and **Full Stack Developer** based in Hanoi, Vietnam. I 
 - Currently building **CodexKit**, an AI automation framework for CLI
 - Developing mobile apps using **Flutter** & **Firebase**
 - Self-hosting my entire stack using **Docker** & **Coolify** on Linux
-- Tracking long-term financial trends (specifically Gold prices in Vietnam)
-
 ---
 
 ### Tech Stack
